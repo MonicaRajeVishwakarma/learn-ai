@@ -21,31 +21,31 @@ Everything is structured to show **consistent progress** and **serious commitmen
 ## ✅ Learning Roadmap
 My roadmap includes:
 
-### 📌 **Phase 1: Python Foundations**
+###  **Phase 1: Python Foundations**
 - Variables, data types, operations  
 - Lists, dictionaries, loops  
 - Functions & OOP basics  
 
-### 📌 **Phase 2: Data Handling & Visualization**
+###  **Phase 2: Data Handling & Visualization**
 - NumPy  
 - Pandas  
 - Matplotlib / Seaborn  
 
-### 📌 **Phase 3: Machine Learning**
+###  **Phase 3: Machine Learning**
 - Classification & regression  
 - Evaluation metrics  
 - First ML project: AI-Powered New Mom Sleep Pattern Recommender 
 
-### 📌 **Phase 4: Deep Learning**
+###  **Phase 4: Deep Learning**
 - Neural networks  
 - CNNs with PyTorch  
 - Baby Cry Classifier (Audio Recognition AI) project  
 
-### 📌 **Phase 5: Advanced ML**
+###  **Phase 5: Advanced ML**
 - Recommender Systems (SVD, content-based)  
 - AI-Powered Grocery Budget Optimizer for Moms project  
 
-### 📌 **Phase 6: Deployment**
+###  **Phase 6: Deployment**
 - FastAPI  
 - Docker  
 - Cloud deployment (Render / Railway)  
@@ -55,9 +55,9 @@ My roadmap includes:
 ## ✅ Project Portfolio (coming soon)
 This repo also includes a `projects/` folder with:
 
-### 🔹 AI-Powered New Mom Sleep Pattern Recommender  
-### 🔹 Baby Cry Classifier (Audio Recognition AI) 
-### 🔹 AI-Powered Grocery Budget Optimizer for Moms
+### - AI-Powered New Mom Sleep Pattern Recommender  
+### - Baby Cry Classifier (Audio Recognition AI) 
+### - AI-Powered Grocery Budget Optimizer for Moms
 
 Each project will have:
 - Full notebook  
