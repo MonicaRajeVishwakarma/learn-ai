@@ -9,7 +9,7 @@ Today I continued my AI Engineering journey by learning how Python makes decisio
 - How programs choose different actions based on logic
 
 ## ✅ What I practiced
-- Writing `if`, `elif`, and `else` statements  
+- Writing `if`, `elif` and `else` statements  
 - Comparing numbers and strings  
 - Using conditions to print different messages  
 - Combining conditions with `and` / `or`
