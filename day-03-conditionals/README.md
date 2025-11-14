@@ -6,7 +6,7 @@ Today I continued my AI Engineering journey by learning how Python makes decisio
 - How `if` checks a condition
 - How `elif` adds more options
 - How `else` handles everything else
-- How programs choose different actions based on logic
+- How programs choose different actions based on logic 
 
 ## ✅ What I practiced
 - Writing `if`, `elif` and `else` statements  
