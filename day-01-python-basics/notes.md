@@ -25,7 +25,7 @@ print(type(milk_quantity))
 ## Arithmetic
 ```python
 x = 5
-y = 2
+y = 3
 print(x + y)
 print(x * y)
 print(x % y)
