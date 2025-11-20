@@ -11,11 +11,11 @@ with open("baby_log.txt","r") as file:
     print("Reading log")
     print(file.read())
 
-#3. Append to a file
+# 3. Append to a file
 with open("baby_log.txt","a") as file:
     file.write("Day 3: Leo tried rolling over!\n")
 
-# 4️⃣ Read line by line
+# 4.  Read line by line
 with open("baby_log.txt", "r") as file:
     print("\nReading line by line:")
     for line in file:
