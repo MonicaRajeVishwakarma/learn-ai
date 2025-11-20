@@ -18,5 +18,31 @@ print("Cosine of 0 :", m.cos(0))
 import my_utils
 print(my_utils.greet("Monica"))
 
+# 5. Using datetime module
+print("\nUsing datetime module")
+from datetime import date, datetime, timedelta
+today = date.today()
+print("Today's date",today)
 
+now = datetime.now()
+print("Current time",now)
+
+future_date = today + timedelta(days=7)
+print("Future date",future_date)
+
+formatted_date = today.strftime("%A, %d %B %Y")
+print("Formatted date",formatted_date)
+
+# 6. Using random module
+print("\nUsing random module")
+import random
+random_int = random.randint(0,10)
+print("Random integer", random_int)
+
+random_choice = random.choice(["diapers", "pacifier", "bottle"])
+print("Random choice",random_choice)
+
+items = ["toys", "food", "clothes"]
+random.shuffle(items)
+print("Shuffled items",items)
 
