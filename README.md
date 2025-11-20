@@ -1,4 +1,4 @@
-# 🌟 Monica Learns AI  
+# Learn AI  
 *A mother's journey to becoming an AI Engineer — one day at a time.*
 
 Welcome to **my AI learning journey**.  
@@ -6,7 +6,7 @@ This repository documents my daily progress toward becoming an **AI Engineer**, 
 
 ---
 
-## ✅ About This Repository
+## About This Repository
 This repo contains:
 - Daily learning folders (`day-01`, `day-02`, …)
 - Python practice exercises
@@ -18,7 +18,7 @@ Everything is structured to show **consistent progress** and **serious commitmen
 
 ---
 
-## ✅ Learning Roadmap
+## Learning Roadmap
 My roadmap includes:
 
 ###  **Phase 1: Python Foundations**
@@ -52,7 +52,7 @@ My roadmap includes:
 
 ---
 
-## ✅ Project Portfolio (coming soon)
+## Project Portfolio (coming soon)
 This repo also includes a `projects/` folder with:
 
 ### - AI-Powered New Mom Sleep Pattern Recommender  
@@ -68,7 +68,7 @@ Each project will have:
 
 ---
 
-## ✅ Why I Built This Repo
+## Why I Built This Repo
 - To track and showcase my **daily progress**  
 - To stay accountable by learning in public  
 - To build a portfolio ready for **AI Engineer roles**  
@@ -77,14 +77,14 @@ Each project will have:
 
 ---
 
-## ✅ Connect With Me
+##  Connect With Me
 Follow my daily journey on LinkedIn:  
-🔗 *https://www.linkedin.com/in/monicavishwakarma/*
+*https://www.linkedin.com/in/monicavishwakarma/*
 
 ---
 
-## ✅ Final Note
+## Final Note
 I am learning in short bursts, consistently.  
 If you are a new mom or beginner in tech — this repo is proof that **slow progress is still progress**.  
-Let’s grow together. 💛
+Let’s grow together.
 
