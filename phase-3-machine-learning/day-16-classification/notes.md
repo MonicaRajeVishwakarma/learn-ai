@@ -22,6 +22,28 @@ New Mom Sleep Pattern Recommender
 These are synthetic examples with illustrative labels,
 not medically validated sleep recommendations.
 
+## My Experiment: 7 vs 8 Hours
+
+For 7 hours of baby sleep:
+- Class 0 probability: 58.98%
+- Class 1 probability: 41.02%
+- Predicted class: 0 (Low Sleep)
+
+For 8 hours of baby sleep:
+- Class 0 probability: 25.17%
+- Class 1 probability: 74.83%
+- Predicted class: 1 (Adequate Sleep)
+
+### What I Learned
+
+Logistic Regression estimates class probabilities.
+
+The model predicts class 1 when its probability is
+at least 50% (using the default binary threshold).
+
+Changing the input changes the probabilities and
+can change the predicted class.
+
 ## Why Logistic Regression?
 
 Logistic Regression is a classification algorithm because
